@@ -1,0 +1,74 @@
+Project 3 Output
+
+1.
+
+List: [3, 1, 7, 1, 4, 10]
+Mode: 1
+Median: 3.5
+Mean: 4.333333333333333
+
+
+2. 
+Enter the input file name: 7oldsamr.txt
+The file has 45 lines.
+Enter a line number [0 to quit]: 3
+3 :  hiding place on top of a mountain almost always covered with grey clouds, 
+
+The file has 45 lines.
+Enter a line number [0 to quit]: 5
+5 :  had piled their spoils. Now and again, they went down the mountain, attacked a
+
+The file has 45 lines.
+Enter a line number [0 to quit]: 1
+1 :  
+
+The file has 45 lines.
+Enter a line number [0 to quit]: 2
+2 :     Once upon a time, in far off Japan, a band of fierce robbers had their 
+
+The file has 45 lines.
+Enter a line number [0 to quit]: 0
+
+
+3.
+Integer  Base    Conversion
+10 	 10 	 10
+10 	 8 	 12
+10 	 2 	 1010
+10 	 16 	 A
+
+4.    
+Enter the input file name: 7oldsamr.txt
+"But
+"Come
+"Eat
+"Have
+"Let
+"Must
+"No,
+"Raiko,
+"The
+"Who
+"Your
+"submit
+A
+And
+Do
+Drink
+Emperor
+Emperor,
+From
+Go
+I
+
+...
+
+
+5. 
+Enter the first file name: 7oldsamr1.txt
+Enter the second file name: 7oldsamr2.txt
+No
+was nothing but smoking ruins, weeping men and women, misery, mournlng and 
+
+was nothing but smoking ruins, weeping men and women, misery, mourning and
+
